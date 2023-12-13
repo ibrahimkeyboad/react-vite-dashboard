@@ -1,6 +1,6 @@
-#Title: Syncfusion React Dashboard
+# Title: Syncfusion React Dashboard
 
-##Description:
+## Description:
 
 Welcome to the Syncfusion React Dashboard – the ultimate tool for managing and visualizing your data effortlessly. This state-of-the-art admin dashboard is ingeniously crafted using the robust framework of React.js, offering a dynamic and responsive user experience.
 
